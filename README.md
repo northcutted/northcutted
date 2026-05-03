@@ -12,7 +12,7 @@
 **👤 About Me**
 - 🔭 **I’m currently working on:** Architecting and operationalizing a Fortune 50 multi-architecture container platform, delivering hardened, distroless images across 700+ applications and 100,000+ builds annually. 
 - 🌱 **I’m currently learning:** Local AI orchestration, advanced 3D Printing/CAD, and Apple ecosystem development. 
-- 💬 **Ask me about:** Enterprise container strategy, zero-trust infrastructure, or my excessive homelab setup!
+- 💬 **Ask me about:** Enterprise container strategy, zero-trust infrastructure, or my homelab setup!
 - 😄 **Pronouns:** He/Him
 - ⚡ **Motto:** Make the secure path the easy path.
 
